@@ -19,3 +19,5 @@ commit in branch2         8
 第7次 branch1 sec commit.  7
 
 第9次 複習commit 解決衝突    9
+
+第10次 複習commit 解決衝突   10
