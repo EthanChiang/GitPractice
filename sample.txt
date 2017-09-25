@@ -10,9 +10,9 @@
 第4次這裡是在git上。         4
 
 
-第6次commin 在master上。    6
+第6次commin 在master上。     6
 
-commit in branch2         8
+commit in branch2          8
 
 第5次這次是新的branch.       5
 
@@ -21,3 +21,5 @@ commit in branch2         8
 第9次 複習commit 解決衝突    9
 
 第10次 複習commit 解決衝突   10
+
+第12次 複習commit 解決衝突   12
