@@ -1,6 +1,6 @@
-連猴子都懂的Git命令  	        1
+連猴子都懂的Git命令  	       1
 
-第2 次的git commit. 		     2
+第2 次的git commit. 		   2
 
 第3 次的commit.解決衝突      3 
 會有衝突,來練習解掉  3
@@ -10,3 +10,6 @@
 第4次這裡是在git上。         4
 
 第6次commin 在master上。    6
+
+commit in branch2         8
+
