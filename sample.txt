@@ -12,3 +12,5 @@
 第5次這次是新的branch.       5
 
 第7次 branch1 sec commit.  7
+
+加個東西在branch1           14
