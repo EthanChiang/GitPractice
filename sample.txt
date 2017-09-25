@@ -27,3 +27,5 @@ commit in branch2          8
 
 第11次 複習commit 解決衝突   11
 
+加個東西在branch1           14
+
