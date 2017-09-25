@@ -1,3 +1,5 @@
-連猴子都懂的Git命令	1
+連猴子都懂的Git命令  	       1
 
-第2 次的git commit.  2
+第2 次的git commit. 		   2
+
+第3 次的commit.解決衝突      3 
