@@ -32,13 +32,20 @@ commit in branch2          8
 
 又加個東西在branch1         15
 
+<<<<<<< HEAD
 又再加個東西在branch1       16
+=======
+又再加個東西在branch1        16
+>>>>>>> branch1
 
 stash second Time         18
 
 試試看stash first Time     17
 
 試試看stash 3		 	      20
+<<<<<<< HEAD
 
 試試看stash second Time    19
 
+=======
+>>>>>>> branch1
