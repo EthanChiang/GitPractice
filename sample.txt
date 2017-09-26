@@ -34,6 +34,7 @@ commit in branch2          8
 
 又再加個東西在branch1       16
 
-stash second Time         17
+stash second Time         18
 
+試試看stash first Time     17
 
