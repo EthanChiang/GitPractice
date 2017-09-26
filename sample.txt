@@ -24,4 +24,3 @@ stash second Time         18
 試試看stash first Time     17
 
 試試看stash 3		 	      20
-
